@@ -2,4 +2,4 @@ module github.com/aqmr-kino/signverifier
 
 go 1.16
 
-require golang.org/x/crypto v0.0.0-20210513164829-c07d793c2f9a
+require golang.org/x/crypto v0.7.0
